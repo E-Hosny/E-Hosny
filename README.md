@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ebrahim Hosny
-- 👀 I’m interested in frond-end development
+- 👀 I’m interested in full-stack development
 - 📫 How to reach me ebrahimhosny511@gmail.com
 
 <!---
